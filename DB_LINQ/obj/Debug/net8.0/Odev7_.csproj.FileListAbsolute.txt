@@ -1,0 +1,14 @@
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\bin\Debug\net8.0\Odev7_.exe
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\bin\Debug\net8.0\Odev7_.deps.json
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\bin\Debug\net8.0\Odev7_.runtimeconfig.json
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\bin\Debug\net8.0\Odev7_.dll
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\bin\Debug\net8.0\Odev7_.pdb
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\Odev7_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\Odev7_.AssemblyInfoInputs.cache
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\Odev7_.AssemblyInfo.cs
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\Odev7_.csproj.CoreCompileInputs.cache
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\Odev7_.dll
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\refint\Odev7_.dll
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\Odev7_.pdb
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\Odev7_.genruntimeconfig.cache
+C:\Users\Yigit Can\source\repos\enginDemiroğGeliştirme\Odev7_\obj\Debug\net8.0\ref\Odev7_.dll
