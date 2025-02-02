@@ -1,4 +1,4 @@
-﻿namespace Odev7_
+﻿namespace LINQ_DB_
 {
     internal class Program
     {//Bir liste oluştur ve içine farklı şehir isimleri ekle.
