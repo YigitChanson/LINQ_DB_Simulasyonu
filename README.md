@@ -1,0 +1,1 @@
+LINQ için basit örnek
